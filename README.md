@@ -37,10 +37,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/2048-puzzle.git
+git clone https://github.com/MubbashirAhmed123/puzzle2048.git
 
 # 2️⃣ Navigate to project directory
-cd 2048-puzzle
+cd puzzle2048
 
 # 3️⃣ Install dependencies
 npm install
