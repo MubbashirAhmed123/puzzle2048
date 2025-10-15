@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import Game2048 from './components/Game2048';
 
