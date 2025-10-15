@@ -6,7 +6,7 @@ The goal is simple — **combine matching tiles to reach 2048!**
 ---
 
 ## 🚀 Live Demo
-👉 [View Demo](#) _(Add your deployed link here)_
+👉 [View Demo](#) _(https://puzzle2048-woad.vercel.app/)_
 
 ---
 
